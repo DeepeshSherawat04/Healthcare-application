@@ -6,8 +6,7 @@ Welcome to the Healthcare application project! This web application is designed 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [Running the Project](#running-the-project)
-- [Deployment](#deployment)
+- [Runninng instructions](#running instructions)
 
 ## Features
 - View Services: Easily view all available healthcare services.
